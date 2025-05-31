@@ -1,0 +1,6 @@
+/root/files/SceneTextDR/output_cropped/received_cropped_0.jpg	便民玻璃门窗店	0.9989780783653259
+/root/files/SceneTextDR/output_cropped/received_cropped_1.jpg	144	0.9998130202293396
+/root/files/SceneTextDR/output_cropped/received_cropped_2.jpg	VOYP	0.3768801689147949
+/root/files/SceneTextDR/output_cropped/received_cropped_3.jpg	新路146号	0.9273946285247803
+/root/files/SceneTextDR/output_cropped/received_cropped_4.jpg	馆	0.9975956082344055
+/root/files/SceneTextDR/output_cropped/received_cropped_5.jpg	馆	0.996942937374115
